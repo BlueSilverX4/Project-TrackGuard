@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Editor / IDE temporary & swap files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS metadata files
+.DS_Store
+Thumbs.db
+
+# Raw / temporary log dumps or large artifacts (keep curated samples/docs)
+*.log
+*.jsonl
+*.pcap
+*.img
+*.iso
+!docs/**/*.log# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Editor / IDE temporary & swap files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS metadata files
+.DS_Store
+Thumbs.db
+
+# Raw / temporary log dumps or large artifacts (keep curated samples/docs)
+*.log
+*.jsonl
+*.pcap
+*.img
+*.iso
+!docs/**/*.log
